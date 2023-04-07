@@ -1,21 +1,18 @@
 # Security Policy
 
-## Supported Versions
+## Supported Versions -> None 
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+### The creator of this code assumes no responsibility for any damages caused.
+### But we do get 100% of any money you make with it, by using this code, you agree to these terms.
+### There are no supported versions, don't use it. We found it somewhere
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| v0.1  | :x:                |
+| v0.2  | :x:                |
+| v0.3  | :x:                |
+| v0.4  | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Ping us if you find a vulnerability, let's say a pint per bug found.
