@@ -1,0 +1,14 @@
+trading-order-system/
+|-- src/
+    |-- main/
+        |-- java/
+            |-- com/
+                |-- yourcompany/
+                    |-- tradingordersystem/
+                        |-- TradingOrderVerticle.java
+                        |-- OrderProcessor.java
+                        |-- RingBuffer.java
+                        |-- Order.java
+                        |-- DbConnector.java
+|-- pom.xml
+
