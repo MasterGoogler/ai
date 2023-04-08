@@ -1,4 +1,4 @@
-ere are some potential vulnerabilities and issues in the system:
+Here are some potential vulnerabilities and issues in the system:
 
 Denial of Service (DoS): Since there's no rate-limiting mechanism in place, an attacker could send a large number of requests, potentially overwhelming the server and causing a denial of service.
 
